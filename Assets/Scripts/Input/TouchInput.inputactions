@@ -1,0 +1,12 @@
+{
+    "name": "TouchInput",
+    "maps": [
+        {
+            "name": "Touch",
+            "id": "7756e912-e905-43c8-935f-6a0eb8ad9210",
+            "actions": [],
+            "bindings": []
+        }
+    ],
+    "controlSchemes": []
+}

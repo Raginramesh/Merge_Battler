@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9862ddfad40c74abf84f5904592e82d9, type: 3}
+  m_Name: TileGenerationSettings
+  m_EditorClassIdentifier: 
+  plainHex: {fileID: 4130153263270763384, guid: e5cbf13dc9c654be98f05ef18a6e0eda,
+    type: 3}
+  waterHex: {fileID: 6565839539874279404, guid: c3d3f031003384306bbd0cab68bb3b90,
+    type: 3}
+  mountainHex: {fileID: 5260811102460613503, guid: 7dd10d0cabe1741ac8e54afefb7fd500,
+    type: 3}
+  plain: {fileID: 1860264245310342178, guid: 33eb51a3063cf454caeb49ed48098849, type: 3}
+  water: {fileID: 8456163463046033290, guid: 4d7075cd262dd46d5b2910af4d5d5028, type: 3}
+  mountain: {fileID: 6097688344306973178, guid: 18513cacf3949476ebb277a11d0fc0fb,
+    type: 3}
